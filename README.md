@@ -1,9 +1,7 @@
 ## Contact Details
 
 <!-- * _Website: currently working-->
-* _Github: 
-* _LinkedIn: https://www.linkedin.com/in/shae-childers-78257022a/
-* _Email: shae.childers4@gmail.com
+* Email: shae.childers4@gmail.com
 
 ## Languages
 * Python
@@ -21,9 +19,6 @@
 * IntelliJ Idea
 * Pycharm
 * Visual Studio
-
-## Projects
-
 
 <!---
 Shae04/Shae04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
