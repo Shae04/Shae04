@@ -5,7 +5,7 @@
 
 ## Projects
 * IP Whitelist Tracker: https://github.com/Shae04/IP-Whitelist-Tracker-/tree/main
-* 
+* Dog Tracker App: https://github.com/Shae04/Clients-Dog-Tracker
 
 ## Languages
 * Python
