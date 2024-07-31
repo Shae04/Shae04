@@ -6,6 +6,7 @@
 ## Projects
 * IP Whitelist Tracker: https://github.com/Shae04/IP-Whitelist-Tracker-/tree/main
 * Dog Tracker App: https://github.com/Shae04/Clients-Dog-Tracker
+* Student_Manager: https://github.com/Shae04/Student_Mananger
 
 ## Languages
 * Python
@@ -23,6 +24,10 @@
 * IntelliJ Idea
 * Pycharm
 * Visual Studio
+* Visual Studio Code
+* SQLite
+* SQLAlchemy
+* MySQL
 
 <!---
 Shae04/Shae04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
